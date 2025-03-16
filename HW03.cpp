@@ -13,8 +13,6 @@ static size_t WriteCallback(void* contents, size_t size, size_t nmemb, void* use
 }
 
 int main() {
-    //284dda4ebd3f4fb2b34182603251503
-
     // Get API key from the user
     string apiKey;
     cout << "Input a valid API key: ";
